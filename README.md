@@ -66,13 +66,7 @@ This design was built to:
 
 ##  Preview
 
-```
-
 ![Portfolio Screenshot](preview.png)
-
-```
-
----
 
 ##  Future Plans
 
