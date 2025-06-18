@@ -68,7 +68,7 @@ This design was built to:
 
 ```
 
-![preview](https://github.com/user-attachments/assets/8a4db697-4196-4a34-abd4-e5cccec73bfc)
+![Portfolio Screenshot](preview.png)
 
 ```
 
