@@ -43,7 +43,7 @@ figma-portfolio-website-design/
 
 You can view the portfolio template directly in Figma:
 
-[**Live Figma File**](https://www.figma.com/design/Fst2wbQoHDckGwE3DAEhm3/Portfolio-Website-Design?t=ZM1F85Le0ozaU1yf-1)
+[**Live Figma File**](https://www.figma.com/design/Fst2wbQoHDckGwE3DAEhm3/Portfolio-Website-Design?node-id=0-1&t=NusY3NkoD3bibIuc-1)
 
 ###  Use the `.fig` File Locally
 
